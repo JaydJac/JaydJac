@@ -10,6 +10,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
+## Projects
+
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JaydJac/threat-hunting-scenario-tor)**
   
 ### 🔍 Threat Hunting Labs
