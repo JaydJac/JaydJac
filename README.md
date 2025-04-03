@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ### 🔍 Threat Hunting Labs
 
 - **[Scenario: Devices Exposed to the Internet](https://github.com/JaydJac/Devices-Exposed-to-the-Internet)**
-- **[Scenario: Sudden Network Slowdowns]**
+- **[Scenario: Sudden Network Slowdowns](https://github.com/JaydJac/Sudden-Network-Slowdowns)**
 - **[Scenario: Suspected Data Exfiltration Employee]**
 
 ### 🛡 Incident Response Labs ( Microsoft Sentinel )
