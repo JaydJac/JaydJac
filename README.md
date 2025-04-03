@@ -12,11 +12,18 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JaydJac/threat-hunting-scenario-tor)**
   
-### Threat Hunting Labs
+### 🔍 Threat Hunting Labs
 
 - **[Scenario: Devices Exposed to the Internet]**
 - **[Scenario: Sudden Network Slowdowns]**
 - **[Scenario: Suspected Data Exfiltration Employee]**
+
+### 🛡 Incident Response Labs ( Microsoft Sentinel)
+
+- **[Scenario 1: Virtual Machine Brute Force Detection]**
+- **[Scenario 2: PowerShell Suspicious Web Request]**
+- **[Scenario 3: Potential Impossible Travel]**
+
 
 <hr/>
 
