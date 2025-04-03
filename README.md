@@ -18,7 +18,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Scenario: Sudden Network Slowdowns]**
 - **[Scenario: Suspected Data Exfiltration Employee]**
 
-### 🛡 Incident Response Labs ( Microsoft Sentinel)
+### 🛡 Incident Response Labs ( Microsoft Sentinel )
 
 - **[Scenario 1: Virtual Machine Brute Force Detection]**
 - **[Scenario 2: PowerShell Suspicious Web Request]**
