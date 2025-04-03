@@ -20,7 +20,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ### 🛡 Incident Response Labs ( Microsoft Sentinel )
 
-- **[Scenario 1: Virtual Machine Brute Force Detection]**
+- **[Scenario 1: Virtual Machine Brute Force Detection](https://github.com/JaydJac/Virtual-Machine-Brute-Force-Detection)**
 - **[Scenario 2: PowerShell Suspicious Web Request]**
 - **[Scenario 3: Potential Impossible Travel]**
 
