@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the maximum size of the Windows Application event log is at least 32768 KB (32 MB).
+    This PowerShell script ensures that the Security event log size will be configured to 1024000 KB or greater.
 
 .NOTES
     Author          : Jayda Jackson
