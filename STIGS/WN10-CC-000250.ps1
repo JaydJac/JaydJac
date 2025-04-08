@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the Windows Defender SmartScreen filter for Microsoft Edge must be enabled.
+    This PowerShell script ensures that the Windows Defender SmartScreen filter for Microsoft Edge is be enabled.
 
 .NOTES
     Author          : Jayda Jackson
