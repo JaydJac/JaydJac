@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the System event log size must be configured to 32768 KB or greater.
+    This PowerShell script ensures that the System event log size will be configured to 32768 KB or greater.
 
 .NOTES
     Author          : Jayda Jackson
