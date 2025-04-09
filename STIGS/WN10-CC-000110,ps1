@@ -25,11 +25,13 @@
     Example syntax:
     PS C:\> .\STIG-ID-WN10-CC-000110.ps1 
 #>
+
 # Run this script with Administrator privileges
 
+# Define the registry path
 $regPath = "HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Printers"
 
-# Create the key if it doesn't exist
+# Create the registry key if it doesn't exist
 if (-not (Test-Path $regPath)) {
     New-Item -Path $regPath -Force | Out-Null
 }
@@ -37,4 +39,5 @@ if (-not (Test-Path $regPath)) {
 # Set the DisableHTTPPrinting DWORD value to 1
 Set-ItemProperty -Path $regPath -Name "DisableHTTPPrinting" -Value 1 -Type DWord
 
+# Confirm the setting
 Write-Output "'DisableHTTPPrinting' successfully set to 1 under $regPath"
