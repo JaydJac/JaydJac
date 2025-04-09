@@ -1,0 +1,27 @@
+<#
+.SYNOPSIS
+    This PowerShell script ensures that ***
+
+.NOTES
+    Author          : Jayda Jackson
+    LinkedIn        : linkedin.com/in/jayda-jackson/
+    GitHub          : github.com/JaydJac
+    Date Created    : 2025-04-09
+    Last Modified   : 2025-04-09
+    Version         : 3.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : ***
+
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 
+
+.USAGE
+    Put any usage instructions here.
+    Example syntax:
+    PS C:\> .\STIG-ID-******.ps1 
+#>
+
