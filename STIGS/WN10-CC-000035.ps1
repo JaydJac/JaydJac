@@ -23,7 +23,7 @@
   
     # Set NoNameReleaseOnDemand Registry Value
 
-This PowerShell script sets the `NoNameReleaseOnDemand` DWORD value to `1` under:
+This PowerShell script sets the `NoNameReleaseOnDemand` DWORD value to `1` 
 
 
     Example syntax:
