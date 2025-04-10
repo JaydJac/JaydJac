@@ -1,4 +1,5 @@
-# 👩🏾‍💻 Jayda Jackson's IT & Cybersecurity Portfolio 🔐
+# 👩🏾‍💻[Jayda Jackson's](https://www.linkedin.com/in/jayda-jackson/)  IT & Cybersecurity Portfolio 🔐
+ 
 
 Hi, I'm **Jayda Jackson** — a passionate cybersecurity professional with a love for solving complex security challenges through hands-on projects. My portfolio spans across vulnerability management, threat detection, and incident response. Each project reflects my dedication to improving security operations and deepening my technical knowledge.
 
