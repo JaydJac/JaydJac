@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔧 Remediations
 
-- **[Windows 10 STIG Remediation: WN10-AU-000500](https://github.com/JaydJac/windows10-stig-remediation)**  
+- **[Windows 10 STIG Remediation: ](https://github.com/JaydJac/Windows-10-STIG-Remediation-Project)**  
   Manual and PowerShell-based remediation of audit policy vulnerability, including scan evidence and rollback validation.
 
 ## 🚨 Threat Hunting and Security Operations
