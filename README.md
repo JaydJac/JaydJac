@@ -8,6 +8,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/JaydJac/Vulnerability-Managment-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
+## 🔧 Remediations
+
+- **[Windows 10 STIG Remediation: WN10-AU-000500](https://github.com/JaydJac/windows10-stig-remediation)**  
+  Manual and PowerShell-based remediation of audit policy vulnerability, including scan evidence and rollback validation.
+
 ## 🚨 Threat Hunting and Security Operations
 
 ## Projects
