@@ -1,50 +1,54 @@
-# <a href="https://www.linkedin.com/in/jayda-jackson/">Jayda Jackson</a>'s IT and Cybersecurity Project Portfolio 🔐
+# 👩🏾‍💻 Jayda Jackson's IT & Cybersecurity Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Hi, I'm **Jayda Jackson** — a passionate cybersecurity professional with a love for solving complex security challenges through hands-on projects. My portfolio spans across vulnerability management, threat detection, and incident response. Each project reflects my dedication to improving security operations and deepening my technical knowledge.
 
+---
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/JaydJac/Vulnerability-Managment-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/JaydJac/Vulnerability-Managment-Program)**  
+  A structured framework for identifying, prioritizing, and remediating vulnerabilities across systems.
+
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**  
+  Automating remediation tasks using scripts to streamline security enforcement.
+
+---
 
 ## 🔧 Remediations
 
-- **[Windows 10 STIG Remediation: ](https://github.com/JaydJac/Windows-10-STIG-Remediation-Project)**  
-  Manual and PowerShell-based remediation of audit policy vulnerability, including scan evidence and rollback validation.
+- **[Windows 10 STIG Remediation](https://github.com/JaydJac/windows10-stig-remediation)**  
+  Manual and scripted remediation of Windows 10 audit policies with scan validation and rollback testing.
 
-## 🚨 Threat Hunting and Security Operations
+---
 
-## Projects
+## 🚨 Threat Hunting & Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JaydJac/threat-hunting-scenario-tor)**
-  
-### 🔍 Threat Hunting Labs
+- **[Threat Hunting Scenario: Tor Browser Usage](https://github.com/JaydJac/threat-hunting-tor)**  
+  Detecting and analyzing unauthorized Tor usage within an enterprise network.
 
-- **[Scenario: Devices Exposed to the Internet](https://github.com/JaydJac/Devices-Exposed-to-the-Internet)**
-- **[Scenario: Sudden Network Slowdowns](https://github.com/JaydJac/Sudden-Network-Slowdowns)**
-- **[Scenario: Suspected Data Exfiltration Employee](https://github.com/JaydJac/Suspected-Data-Exfiltration-Employee)**
+---
 
-### 🛡 Incident Response Labs ( Microsoft Sentinel )
+## 🔍 Threat Hunting Labs
 
-- **[Scenario 1: Virtual Machine Brute Force Detection](https://github.com/JaydJac/Virtual-Machine-Brute-Force-Detection)**
-- **[Scenario 2: PowerShell Suspicious Web Request](https://github.com/JaydJac/PowerShell-Suspicious-Web-Request)**
-- **[Scenario 3: Potential Impossible Travel](https://github.com/JaydJac/Potential-Impossible-Travel)**
+- **[Exposed Devices to the Internet](https://github.com/JaydJac/threat-lab-exposed-devices)**  
+- **[Sudden Network Slowdowns](https://github.com/JaydJac/threat-lab-network-slowdown)**  
+- **[Suspected Insider Data Exfiltration](https://github.com/JaydJac/threat-lab-data-exfiltration)**  
 
+---
 
-<hr/>
+## 🛡 Incident Response Labs (Microsoft Sentinel)
+
+- **[Scenario 1: VM Brute Force Detection](https://github.com/JaydJac/sentinel-brute-force)**  
+- **[Scenario 2: Suspicious PowerShell Web Request](https://github.com/JaydJac/sentinel-powershell-request)**  
+- **[Scenario 3: Impossible Travel Alert](https://github.com/JaydJac/sentinel-impossible-travel)**  
+
+---
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🌐 [LinkedIn](https://www.linkedin.com/in/jaydajackson)
+- 📫 Email: jaydajac@gmail.com 
 
+---
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+> _"Security is not a product, but a process." – Bruce Schneier_
