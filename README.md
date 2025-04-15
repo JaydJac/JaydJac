@@ -15,7 +15,7 @@ Hi, I'm **Jayda Jackson** — a passionate cybersecurity professional with a lov
 
 ---
 
-## 🔧 Remediations
+## 🔧 Powershell Automation
 
 - **[Windows 10 STIG Remediation](https://github.com/JaydJac/Windows-10-STIG-Remediation-Project)**  
   Manual and scripted remediation of Windows 10 audit policies with scan validation and rollback testing.
